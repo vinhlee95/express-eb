@@ -1,0 +1,15 @@
+{
+  "name": "express-eb",
+  "version": "1.0.0",
+  "description": "Express server in AWS Elastic Beanstalk environment",
+  "main": "index.js",
+  "author": "Vinh Le <lethanhvinh95@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
